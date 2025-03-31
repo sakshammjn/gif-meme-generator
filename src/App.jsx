@@ -4,7 +4,7 @@ import Tag from "./components/Tag"
 export default function App() {
   return (
     <div className="w-full h-screen flex flex-col items-center bg-gray-100 background">
-      <h1 className="bg-white rounded-lg w-[90%] text-center mt-10 px-10 py-2 text-3xl font-bold">
+      <h1 className="bg-white rounded-lg w-[84%] text-center mt-10 px-10 py-2 text-3xl font-bold">
         Generate Random GIFs
       </h1>
 
